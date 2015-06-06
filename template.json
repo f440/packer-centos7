@@ -43,6 +43,10 @@
     }
   ],
   "post-processors": [
+    [{
+      "type": "vagrant",
+      "keep_input_artifact": false
+    },
     {
       "type": "atlas",
       "only": ["virtualbox-iso"],
@@ -50,8 +54,8 @@
       "artifact_type": "vagrant.box",
       "metadata": {
         "provider": "virtualbox",
-        "version": "0.0.2"
+        "version": "0.0.4"
       }
-    }
+    }]
   ]
 }
