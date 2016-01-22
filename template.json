@@ -10,8 +10,8 @@
     {
       "guest_os_type": "RedHat_64",
       "iso_checksum_type": "md5",
-      "iso_checksum": "111379a06402e1e445c6aeee9401d031",
-      "iso_url": "http://ftp.osuosl.org/pub/centos/7.1.1503/isos/x86_64/CentOS-7-x86_64-NetInstall-1503.iso",
+      "iso_checksum": "99d305fa40ec9e28ef8450c3bcc45f85",
+      "iso_url": "http://ftp.osuosl.org/pub/centos/7.2.1511/isos/x86_64/CentOS-7-x86_64-NetInstall-1511.iso",
       "type": "virtualbox-iso",
       "ssh_password": "vagrant",
       "ssh_username": "vagrant",
